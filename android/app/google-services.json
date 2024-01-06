@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "500226261122",
+    "firebase_url": "https://kirana-insigths-default-rtdb.firebaseio.com",
+    "project_id": "kirana-insigths",
+    "storage_bucket": "kirana-insigths.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500226261122:android:5d31cee4bdd243d805349b",
+        "android_client_info": {
+          "package_name": "com.kiranainsights"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluByR6mdS2wucYxG71_iYE1ds0mx-Jc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

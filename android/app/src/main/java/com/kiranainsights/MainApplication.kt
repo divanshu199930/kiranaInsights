@@ -1,4 +1,5 @@
 package com.kiranainsights
+import io.invertase.firebase.storage.ReactNativeFirebaseStoragePackage;
 
 import android.app.Application
 import com.facebook.react.PackageList
@@ -17,6 +18,7 @@ class MainApplication : Application(), ReactApplication {
   override val reactNativeHost: ReactNativeHost =
       object : DefaultReactNativeHost(this) {
         override fun getPackages(): List<ReactPackage> {
+          
           // Packages that cannot be autolinked yet can be added manually here, for example:
           // packages.add(new MyReactNativePackage());
           return PackageList(this).packages
